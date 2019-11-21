@@ -1,6 +1,5 @@
-#Seattle Events Website
-https://kimswiftrn.github.io/seattle-events-website/
-header>
+<head>
+    <link rel="stylesheet" href="./seattle-events-website.css">
     <title> 
         Seattle Events
     </title>
@@ -12,19 +11,17 @@ header>
             calender
         </li>
         <li>about us</li>
-        <li>map</li>
-        <li>sign up</li>
     </ul>
 </nav>
 <section>
     <h2>upcoming events</h2>
-<img src="http://pikeplacemarket.org"/>
-<img src="http://seeitall.com/attraction/space-needle"
-<img src="https://www.seattle.gov/#"/>
+<img src="./photos.jpeg/pikeplacemarket.jpeg" width="200px"height="200px"/>
+<img src="./photos.jpeg/spaceneedle.jpg"width="200px" height="200px"/>
+<img src="./photos.jpeg/alki.jpg"width="200px"height="200px"/>
 
 </section>
     
-</header>
+</head>
 <nav>
     <footer>
         <ul>
